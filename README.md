@@ -1,1 +1,1 @@
-# 71220886_JennyRumirisMarpaung_RekomendasiPembelianProduk_Forecasting-Prediksi-Peramalan-
+# 71220886_JennyRumirisMarpaung_RekomendasiPembelianProduk_Classification(Klasifikasi)
